@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mytoolbox</string>
+    <string name="title_activity_contactos">Contactos</string>
+    <string name="title_activity_ensayo">ensayo</string>
+    <string name="title_activity_intento">intento</string>
+    <string name="title_activity_reloj">Reloj</string>
+    <string name="title_activity_alarma">Alarma</string>
+    <string name="title_activity_reloj_mundial">Reloj_mundial</string>
+    <string name="title_activity_cronometro">Cronometro</string>
+    <string name="title_activity_temporizador">Temporizador</string>
+    <string name="title_activity_reloj__mundial">Reloj_Mundial</string>
+</resources>
